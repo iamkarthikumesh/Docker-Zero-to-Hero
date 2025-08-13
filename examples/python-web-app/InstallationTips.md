@@ -1,5 +1,9 @@
 # 1. Update packages and install Python + venv tools
+```bash
+
 sudo apt update
+
+
 sudo apt install python3 python3-pip python3-venv -y
 
 # 2. Create a virtual environment
